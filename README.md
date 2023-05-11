@@ -2,4 +2,4 @@
 following the 'Build a Salon Appointment Scheduler' project on freecodecamp
 
 
-getting an error on subtask 1.1 : 19
+getting an error on subtask 1.1 : 19 and 20
